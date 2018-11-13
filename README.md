@@ -5,7 +5,7 @@
 * Have installed bundle
 * Have installed shotgun
 
-## How to run in ##
+## How to run it ##
 * hotgun app.rb -p NUMBER_PORT (example 8080)
 
 ```
